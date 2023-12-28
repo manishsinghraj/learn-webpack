@@ -1,5 +1,6 @@
-npm init --yes
-npm i webpack webpack-cli --save-dev
+`npm init --yes`
+
+`npm i webpack webpack-cli --save-dev`
 
 ## Basic about webpack - demo
 
@@ -81,6 +82,7 @@ now you create html file in dist folder and mention the script file pointing to 
 <hr>
 
 ## Make Config file
+
 mode, entry , output
 
 
